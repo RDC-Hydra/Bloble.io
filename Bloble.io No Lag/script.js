@@ -12,6 +12,12 @@ GM_xmlhttpRequest({
 		document.open();
 		document.write(MySql);
 		document.close();
-
-            	}
+setInterval(afk ,9000);
+ function afk(){
+   socket.emit("2",0,0,);
+   
+var resolution = 1;
+   var rate = 0;
+          }
+     }
 });
