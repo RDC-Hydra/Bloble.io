@@ -1,0 +1,22 @@
+{
+  "name": "ignore-it",
+  "version": "0.5.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "python "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydra-Developer/Bloble.io.git"
+  },
+  "author": "Hydra-Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydra-Developer/Bloble.io/issues"
+  },
+  "homepage": "https://github.com/Hydra-Developer/Bloble.io#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
